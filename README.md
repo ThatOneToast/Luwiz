@@ -1,0 +1,2 @@
+# Luwiz
+Discord Bot
