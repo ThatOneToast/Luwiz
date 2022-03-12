@@ -1,0 +1,7 @@
+discord
+termcolor
+asyncio
+aiohttp
+datetime
+requests
+DiscordUtils
